@@ -1,2 +1,5 @@
-﻿  Source.cpp
+﻿  Classes.cpp
+  Source.cpp
+  Generating Code...
+E:\hm\Class Wars\Classes.cpp(144): warning C4715: 'Round': not all control paths return a value
   Class Wars.vcxproj -> E:\hm\Class Wars\Debug\Class Wars.exe
